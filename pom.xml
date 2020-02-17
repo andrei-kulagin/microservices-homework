@@ -29,5 +29,6 @@
         <module>po</module>
         <module>eureka-service</module>
         <module>load-balancer</module>
+        <module>gateway</module>
     </modules>
 </project>
