@@ -1,0 +1,15 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+    instance:
+    preferIpAddress: true
+spring:
+  application:
+    name: pc-service
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+server:
+  port: 8081
