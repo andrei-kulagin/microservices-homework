@@ -28,5 +28,6 @@
         <module>pc</module>
         <module>po</module>
         <module>eureka-service</module>
+        <module>load-balancer</module>
     </modules>
 </project>
